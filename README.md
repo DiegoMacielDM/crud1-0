@@ -1,2 +1,2 @@
 # crud1-0
-CRUD feito em PHP.
+CRUD feito em PHP com PDO.
